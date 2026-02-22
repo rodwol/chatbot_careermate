@@ -26,7 +26,7 @@ domain-specific tasks.
 
 ------------------------------------------------------------------------
 
-## 📊 Baseline Performance
+## Baseline Performance
 
   Metric       Value
   ------------ -------
@@ -35,7 +35,7 @@ domain-specific tasks.
 
 ------------------------------------------------------------------------
 
-## 🚀 Fine-Tuning Results
+## Fine-Tuning Results
 
   Experiment   Epochs   Validation Loss   Perplexity
   ------------ -------- ----------------- ------------
@@ -126,7 +126,6 @@ https://huggingface.co/spaces/helinow/Careermate
 
 ------------------------------------------------------------------------
 
-## 👨‍💻 Author
+## Author
 
-Your Name\
-Course: Domain-Specific LLM Fine-Tuning Project
+Rodas Goniche
